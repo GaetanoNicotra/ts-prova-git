@@ -3,6 +3,7 @@ import './style.css'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML =
   `<h1>Hello</h1>
   <h2> Button change background color! </h2>
+  <h3> Try! <h/3>
   `;
 
 // seleziono il bottone e aggiungo l'evento
